@@ -1,6 +1,8 @@
 '''
+    Task 4. Module 5
+
 Personal helper bot
-version: pre-alfa 0.0.4 
+version: pre-alfa 0.0.5 
 '''
 import sys
 from re import search

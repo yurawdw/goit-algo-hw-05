@@ -1,3 +1,7 @@
+'''
+    Task 3. Module 5
+'''
+
 import re
 import sys
 from typing import List, Dict

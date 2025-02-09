@@ -2,6 +2,7 @@
     Task 1. Module 5
 '''
 
+
 def caching_fibonacci():
     '''
     Outer function for calculating Fibonacci numbers
@@ -20,8 +21,8 @@ def caching_fibonacci():
 
 
 if __name__ == "__main__":
-    
+
     fib = caching_fibonacci()
-    {print(f'{x}:\t{fib(x)}') for x in range(5)}
+    {print(f'{x}:\t{fib(x)}') for x in range(41)}
 
 # 0, 1, 1, 2, 3, 5, 8, ...

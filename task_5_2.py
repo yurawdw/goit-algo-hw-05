@@ -1,3 +1,7 @@
+'''
+    Task 2. Module 5
+'''
+
 import re
 from typing import Callable
 
